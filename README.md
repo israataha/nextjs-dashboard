@@ -31,7 +31,7 @@ using the following libraries & frameworks:
 Clone the repository
 
 ```sh
-git clone https://github.com/israataha/nextjs-dashbord
+git clone https://github.com/israataha/nextjs-dashboard
 ```
 
 Install the dependencies
@@ -82,7 +82,7 @@ Run the app with following command:
 npm run dev
 ```
 
-Open your browser at [localhost:3000](localhost:3000) to see the running application.
+Open your browser at [localhost:3000](http://localhost:3000) to see the running application.
 
 ## Resources:
 - [How to Build a Fullstack App with Next.js, Prisma, and Vercel Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
