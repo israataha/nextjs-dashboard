@@ -86,5 +86,5 @@ Open your browser at [localhost:3000](http://localhost:3000) to see the running 
 
 ## Resources:
 - [How to Build a Fullstack App with Next.js, Prisma, and Vercel Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
-[How to seed a database with Prisma and Next.js](https://planetscale.com/blog/how-to-seed-a-database-with-prisma-and-next-js)
+- [How to seed a database with Prisma and Next.js](https://planetscale.com/blog/how-to-seed-a-database-with-prisma-and-next-js)
 https://github.com/planetscale/nextjs-starter/tree/main
